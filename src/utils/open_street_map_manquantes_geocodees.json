@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Camille",
+    "phone": "61 80 14 77",
+    "group": 1,
+    "address": "Av. Charles De Gaule - Hôtel des _x001F_nances de Dassasgho",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Centre",
+    "phone": "25 31 16 60",
+    "group": 1,
+    "address": "460, Av. de la nation collée à Telecel siège",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Crystal",
+    "phone": "60 46 08 08",
+    "group": 1,
+    "address": "Face à la nouvelle Mairie de l’Arrdt 9 ; vers Centre Medical DON ORIONE, sect 38",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Divine",
+    "phone": "69 00 07 77",
+    "group": 1,
+    "address": "",
+    "lat": 12.3396786,
+    "lng": -1.5326908
+  },
+  {
+    "name": "El Wanogo",
+    "phone": "25 40 70 22",
+    "group": 1,
+    "address": "A côté du Marché de Wayalghin, non loin de la Clinique de l’EST",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Elite",
+    "phone": "25 41 91 77",
+    "group": 1,
+    "address": "Avenue Yennega route de Yagma",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Gueswende",
+    "phone": "75 21 20 00",
+    "group": 1,
+    "address": "",
+    "lat": 12.3191498,
+    "lng": -1.5222378
+  },
+  {
+    "name": "Guuduma",
+    "phone": "70 28 48 60",
+    "group": 1,
+    "address": "",
+    "lat": 12.3681873,
+    "lng": -1.5270944
+  },
+  {
+    "name": "Hosanna",
+    "phone": "25 41 26 48",
+    "group": 1,
+    "address": "Route de Fada en face du Lycée Naba Yemdé",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Kossodo",
+    "phone": "25 35 63 04",
+    "group": 1,
+    "address": "En face de l’aba_x001E_oir de Kossodo, après la BOA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Lanibougna",
+    "phone": "25 48 07 97",
+    "group": 1,
+    "address": "Tanghin, quartier Nonghin, non loin de la Station Radar",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Lanzané",
+    "phone": "25 47 10 65",
+    "group": 1,
+    "address": "En face de l’Auto-Ecole Magni_x001F_cat à la Zone Une (1)",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Léndimi",
+    "phone": "63 81 59 18",
+    "group": 1,
+    "address": "Sise à Balkuy non loin de Viva Hôtel sur la voie rouge",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Les champions",
+    "phone": "51 00 15 25",
+    "group": 1,
+    "address": "A environ 100 mètres du marché de 14 Yaar",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Magnificat",
+    "phone": "25 41 29 90",
+    "group": 1,
+    "address": "Sect.50 Karpala, 1km après rue Sankara Inoussa, 300m du dernier six-mètre à gauche",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Minitché",
+    "phone": "72 25 76 76",
+    "group": 1,
+    "address": "Belleville non loin du rond-point de la transition.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Pelega",
+    "phone": "25 35 05 01",
+    "group": 1,
+    "address": "Arrdt n°3, Av du Yatenga à 100m du rond-point de la Jeunesse",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Rachel Yagma",
+    "phone": "25 40 70 09",
+    "group": 1,
+    "address": "",
+    "lat": 12.3681873,
+    "lng": -1.5270944
+  },
+  {
+    "name": "Saint Bernard",
+    "phone": "25 45 14 82",
+    "group": 1,
+    "address": "Face à la trame d’accueil Ouaga 2000",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Saint François D'Assise",
+    "phone": "25 36 85 85",
+    "group": 1,
+    "address": "Zone du bois non loin de l'agence ONATEL.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Song Taaba",
+    "phone": "25 36 64 62",
+    "group": 1,
+    "address": "100m de la SONABEL Bendogo, Cité de l’avenir",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Tale",
+    "phone": "71 62 08 08",
+    "group": 1,
+    "address": "Route de Bobo, entre les stations Total et Shell et le lycée Bethesda",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Tenedia",
+    "phone": "63 93 00 19",
+    "group": 1,
+    "address": "Kamboinsin en face des 2IE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Tengandogo",
+    "phone": "01 18 33 82",
+    "group": 1,
+    "address": "100m après le tournant du CHU Tengandogo à droite avant la station TOTAL",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Wend La Laafi",
+    "phone": "25 40 80 66",
+    "group": 1,
+    "address": "Quartier Pissy, Route de Bobo, en face de la Station Shell de Pissy",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Wendpanga",
+    "phone": "25 50 29 29",
+    "group": 1,
+    "address": "",
+    "lat": 12.3979768,
+    "lng": -1.5709106
+  },
+  {
+    "name": "Yathrib",
+    "phone": "25 40 23 88",
+    "group": 1,
+    "address": "200m du marché de Saaba",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Cité An 3",
+    "phone": "25 33 19 66",
+    "group": 2,
+    "address": "Larlé, en face de la maternité Pogbi (du Centre Médical Urbain )",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Danouma",
+    "phone": "25 39 55 54",
+    "group": 2,
+    "address": "Bonheur Ville à 300 mètres du rond-point de la Transition",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Delwindé",
+    "phone": "25 36 72 80",
+    "group": 2,
+    "address": "Sect. 42 de l'Arrdt. 10, à 700m de l'échangeur de l’EST (Kossodo) RN3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Denisa",
+    "phone": "71 82 76 60",
+    "group": 2,
+    "address": "Secteur 14 komsilga non loin du CHU de Tengandogo",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Faso",
+    "phone": "25 38 19 29",
+    "group": 2,
+    "address": "Blvd France - Afrique à 300m de l’agence BOA France Afrique, Pa_x001F_e-d’oie",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Hanniel",
+    "phone": "25 36 60 20",
+    "group": 2,
+    "address": "Arrdt 10, sect. 43 non loin du rond point sur le goudron qui va du marché de Saaba à Balkuy",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Hope",
+    "phone": "71 14 22 22",
+    "group": 2,
+    "address": "Route de fada, Nioko 1, Saaba en allant vers la Consolatrice",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Horizon",
+    "phone": "73 17 06 06",
+    "group": 2,
+    "address": "Cité Azimmo Ouaga 2000, 50mètres de l’hotel AKENON",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Jabnéel",
+    "phone": "25 36 66 01",
+    "group": 2,
+    "address": "Route Côté Sud SONABEL Bendogo à 700M",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Jireh",
+    "phone": "25 65 21 39",
+    "group": 2,
+    "address": "Non loin de l’ecole primaire Naaba YANDFO",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Joriel",
+    "phone": "25 48 98 98",
+    "group": 2,
+    "address": "Cité de Bassinko sortie Nord du Grand rond-point de la cité de Bassinko",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Jourdain",
+    "phone": "25 36 06 86",
+    "group": 2,
+    "address": "Blvd Tansoba, 100m de l’hôpital pédiatrique",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Ko-Viiga",
+    "phone": "25 66 33 33",
+    "group": 2,
+    "address": "Sis à Rimkieta, secteur 35 à gauche non loin de la paroisse saint Augustin de Bissighin",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Koumajer",
+    "phone": "25 40 20 20",
+    "group": 2,
+    "address": "Non loin du Palais de Justice de Karpala",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Les Lauriers",
+    "phone": "25 48 37 55",
+    "group": 2,
+    "address": "Karpala sur la voie des Pylônes non loin de la Cave Simporé",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Martin",
+    "phone": "25 50 84 59",
+    "group": 2,
+    "address": "Av. de la Dignité, non loin de la radio SAVANE FM",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Mitspah",
+    "phone": "25 45 85 85",
+    "group": 2,
+    "address": "Située au secteur 42 à Bendogo sur la rue Kondo Noom",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Nayyira",
+    "phone": "63 78 44 44",
+    "group": 2,
+    "address": "Katre Yaar après la gare de taxis",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Neima",
+    "phone": "25 65 56 82",
+    "group": 2,
+    "address": "Toukin Yaar, quartier Somgandé",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Progrès",
+    "phone": "25 43 01 62",
+    "group": 2,
+    "address": "Pissy, route de Bobo, face à UBIPHARM",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Rakismanegré",
+    "phone": "62 50 58 18",
+    "group": 2,
+    "address": "Non loin du Chateau d’eau de Tampouy, sur la voie de la nouvelle mairie de l’arrdt 9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Saint Joseph",
+    "phone": "25 46 55 08",
+    "group": 2,
+    "address": "RN2 - Route de Ouahigouya derrière la CNSS de Kilwin, dans le prolongement nord de la Sation SOGELB",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Schifeyi",
+    "phone": "25 40 27 42",
+    "group": 2,
+    "address": "Non loin du blvd de la Jeunesse vers le foyer du Sapeur Pompier du camp Sangoulé Lamizana",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Sig-Noghin",
+    "phone": "25 35 09 77",
+    "group": 2,
+    "address": "Av. Naaba Ziiwendé 150m du rond point de Rimkieta",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Somketa",
+    "phone": "25 65 82 73",
+    "group": 2,
+    "address": "Route de Kamboinsin, 100m avant la BAC de Kamboisin RN 22",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Sud",
+    "phone": "25 38 42 82",
+    "group": 2,
+    "address": "Centre Commercial Ouaga 2000 à côté de l’Hotel Libya",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Ti-Bangré",
+    "phone": "25 45 45 95",
+    "group": 2,
+    "address": "Route de Bobo (National nº1) à l’entrée du pont de Boulmiougou , Pissy",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Tiis Yondo",
+    "phone": "51 53 91 91",
+    "group": 2,
+    "address": "",
+    "lat": 12.3681873,
+    "lng": -1.5270944
+  },
+  {
+    "name": "Univers",
+    "phone": "25 41 99 65",
+    "group": 2,
+    "address": "Voie principale Saaba, à 500m de la Prefecture",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Viim",
+    "phone": "01 92 88 88",
+    "group": 2,
+    "address": "100 mètres du Centre Médical de Nagrin",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Vincent de Paul",
+    "phone": "02 04 77 77",
+    "group": 2,
+    "address": "Située en face de l’alimentation SOMDARA, à env. 150 m du lycée Bangre Yiguia à la Zone 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Wapassi Lafi",
+    "phone": "67 07 08 46",
+    "group": 2,
+    "address": "",
+    "lat": 12.3681873,
+    "lng": -1.5270944
+  },
+  {
+    "name": "Zidou",
+    "phone": "61 07 88 60",
+    "group": 2,
+    "address": "Balkuy, en face de l’immeuble Yelhi",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Balkuy",
+    "phone": "25 37 51 36",
+    "group": 3,
+    "address": "Route de Pô, non loin de la Station Total",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Belle ville",
+    "phone": "25 40 84 14",
+    "group": 3,
+    "address": "Route de Komsilga / BRAFASO / 75e Anniversaire AD",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Charis",
+    "phone": "25 43 90 91",
+    "group": 3,
+    "address": "Cité relais de Zagtouli, route de bobo après le complexe scolaire Saint Justin",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Djabal",
+    "phone": "25 30 05 76",
+    "group": 3,
+    "address": "Kamsonghin secteur 6, Av Ouezzin Coulibaly (entre la zone Zaca et le château du Mogho Naba)",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Galiam",
+    "phone": "25 65 31 65",
+    "group": 3,
+    "address": "Tampouy, route de la mairie de Sig-Nonghin, non loin du rond point de la Cité AZIMO",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Georgette",
+    "phone": "25 50 05 28",
+    "group": 3,
+    "address": "Bassinko, route de Ouahigouya, à côté de la boulangerie Baraka",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Hamamickely",
+    "phone": "73 78 32 99",
+    "group": 3,
+    "address": "Quartier Somgandé à 300m du CSPS du Sect. 19 (ex sect 25) Arrdt 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Independance",
+    "phone": "25 37 68 71",
+    "group": 3,
+    "address": "416, av. du président Lamizana face à Hotel AZALAï",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Jizreel",
+    "phone": "44 79 35 36",
+    "group": 3,
+    "address": "",
+    "lat": 12.3681873,
+    "lng": -1.5270944
+  },
+  {
+    "name": "Kalifa Traore",
+    "phone": "25 43 21 21",
+    "group": 3,
+    "address": "",
+    "lat": 12.3681873,
+    "lng": -1.5270944
+  },
+  {
+    "name": "Kamboinsin",
+    "phone": "62 57 49 49",
+    "group": 3,
+    "address": "Face du Centre Éme_x001F_eur de KAMBOINSIN",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Kilwin",
+    "phone": "25 50 84 62",
+    "group": 3,
+    "address": "Route de Ouahigouya, côté station Shell, face à Toecin Yaar, Tampouy",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Marjean",
+    "phone": "25 47 03 47",
+    "group": 3,
+    "address": "",
+    "lat": 12.3681873,
+    "lng": -1.5270944
+  },
+  {
+    "name": "Naab Raga",
+    "phone": "70 14 39 77",
+    "group": 3,
+    "address": "Samandin, Avenue Oumarou KANAZOE à 100m du marché de Naab Raga",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Nagrin",
+    "phone": "25 46 90 48",
+    "group": 3,
+    "address": "Route de Saponé avant l‘hôpital Blaise Compaoré",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Nayalgba",
+    "phone": "25 40 73 25",
+    "group": 3,
+    "address": "",
+    "lat": 12.3681873,
+    "lng": -1.5270944
+  },
+  {
+    "name": "Ninrwa",
+    "phone": "25 41 80 38",
+    "group": 3,
+    "address": "Route Benogo - Kossodo (Av Colonel A. Michel OUEDRAOGO) Bogodogo à 400m du marché",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Noom-Wendé",
+    "phone": "01 25 17 17",
+    "group": 3,
+    "address": "Rue Liwaga, après le lycée UNIVERSALIS en allant à Pissy.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Pierre Tapsoba",
+    "phone": "52 11 74 38",
+    "group": 3,
+    "address": "Saaba à 100m de la station OTAM",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Pissy",
+    "phone": "25 43 13 35",
+    "group": 3,
+    "address": "Côté Est CMA de Pissy",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Renaissance",
+    "phone": "68 91 10 10",
+    "group": 3,
+    "address": "A 150 m du rond-point de la Pate d'Oie route de Pag La Yiri juste après la CNSS",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Saint Lazare",
+    "phone": "25 36 86 48",
+    "group": 3,
+    "address": "1200 logts, à côté du Pont (du Canal) de Boins Yaare",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Saint Michel",
+    "phone": "25 45 48 08",
+    "group": 3,
+    "address": "Rimkiéta non loin de la phcie Barkwendé",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Seneve",
+    "phone": "60 12 12 73",
+    "group": 3,
+    "address": "Wayalghin à 50m de la cour de l’ex premier ministre PARAMANGA ERNEST YONLI",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Taoko",
+    "phone": "25 36 69 27",
+    "group": 3,
+    "address": "Blvd Tansoba, à 500m de l’échangeur de l’Est",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Tiyele",
+    "phone": "64 36 46 36",
+    "group": 3,
+    "address": "Rue 28. 284, secteur 43 non loin du lycée Ste Colle_x001F_e",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Wayalghin",
+    "phone": "25 39 52 08",
+    "group": 3,
+    "address": "En Face du mur du camp CRS, vers ANTBA (en venant de la MACO tourner à gauche après l’ENAREF)",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Yempabou",
+    "phone": "25 39 40 61",
+    "group": 3,
+    "address": "RN3, à 500m du marché de Nioko 2, même alignement que la Boulangerie Koom",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Zone I",
+    "phone": "25 48 15 13",
+    "group": 3,
+    "address": "À 200m du marché de la Zone 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Choukroullah",
+    "phone": "25 40 93 76",
+    "group": 4,
+    "address": "300m du Centre Médical de Nagrin",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "De l'Alliance",
+    "phone": "66 06 35 39",
+    "group": 4,
+    "address": "Rimkieta à 50 mètres du Lycée Général Kadiogo III",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Des cités",
+    "phone": "25 45 65 55",
+    "group": 4,
+    "address": "",
+    "lat": 12.2696076,
+    "lng": -1.5178907
+  },
+  {
+    "name": "El Shaddai",
+    "phone": "25 41 00 02",
+    "group": 4,
+    "address": "Benogo à 100 mètres du Pont Ana na yélé",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Fraternité",
+    "phone": "25 36 48 00",
+    "group": 4,
+    "address": "100m de ENAREF, côté ECOBANK",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Gemme",
+    "phone": "62 70 50 50",
+    "group": 4,
+    "address": "Cité AZIMMO Tampouy en face du Lycée Privé Pang Ya Wendé",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Hambila",
+    "phone": "02 53 57 57",
+    "group": 4,
+    "address": "RN4 - Route de fada dans la cité de la nouvelle génération de Abdoul Service International à Borgho",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Hamid",
+    "phone": "79 61 31 72",
+    "group": 4,
+    "address": "Route Nationale nº1 (RN1) en face de la SONAPOST de Zagtouly",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Hanahim",
+    "phone": "25 39 54 38",
+    "group": 4,
+    "address": "Zone de Saaba non loin du Rond point de l’ONEA route de Fada",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Iris",
+    "phone": "25 46 99 25",
+    "group": 4,
+    "address": "A 500m du rond point de la transition 1ère sortie sur la route du Commissariat Arrdt 7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Kamalia",
+    "phone": "79 07 42 66",
+    "group": 4,
+    "address": "Quartier Balkuy, non loin de la résidence du Balkuy Naaba",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Kawsar",
+    "phone": "73 20 77 87",
+    "group": 4,
+    "address": "Karpala à 600m de la division _x001E_scale (impôts)",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Kouma",
+    "phone": "25 47 43 43",
+    "group": 4,
+    "address": "Boulevard France-Afrique Ouaga 2000, à 100m de Ouaga FM",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "La Roche",
+    "phone": "25 39 51 32",
+    "group": 4,
+    "address": "TAMPOUY, (arrt 3, sect. 15) en face du groupe scolaire NAA-TOUGOULE, Ex Nakeb-Zanga",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Latando",
+    "phone": "44 94 71 71",
+    "group": 4,
+    "address": "",
+    "lat": 12.3681873,
+    "lng": -1.5270944
+  },
+  {
+    "name": "Le Rocher",
+    "phone": "25 40 83 87",
+    "group": 4,
+    "address": "Rue séparant Ouaga 2000 et Pa_x001D_e d’oie à 1km de la Mosquée KANAZOE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Miséricorde",
+    "phone": "25 65 22 64",
+    "group": 4,
+    "address": "Dassasgho, coté nord de l’Eglise de Karambiri à 300 mètres",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Musée",
+    "phone": "25 36 68 41",
+    "group": 4,
+    "address": "Blvd Tansoba côté est du Mur du Musée National",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Nioko I",
+    "phone": "61 97 70 48",
+    "group": 4,
+    "address": "Avenue Naaba Yemdé non loin de la Clinique Secours Dentaire Internationale",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Nongui",
+    "phone": "25 40 84 88",
+    "group": 4,
+    "address": "Tampouy vers l’école Toecin",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Pingdba",
+    "phone": "78 37 93 81",
+    "group": 4,
+    "address": "Dérrière la pédiatrie Charles De Gaulle, Route de 14 Yaar non loin de la Nouvelle Mairie de l’Arrdt 10",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Principale",
+    "phone": "25 37 54 15",
+    "group": 4,
+    "address": "Av. Pascal ZAGRE Ouaga 2000, côté feux tricolores Présidence du Faso, non loin de TV BF1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Rima",
+    "phone": "50 61 07 07",
+    "group": 4,
+    "address": "Kamboinsin, sur La route de Pazani",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Rimkiéta",
+    "phone": "71 50 94 36",
+    "group": 4,
+    "address": "RIMKIETA, face à la maison des jeunes et de la culture, non loin du grand rond-point vers l'école de police",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Sainte Odile",
+    "phone": "51 69 77 77",
+    "group": 4,
+    "address": "Côté Est de la Cave Simpore à Karpala en allant vers Rayongo.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Sira",
+    "phone": "25 43 17 78",
+    "group": 4,
+    "address": "Route de Bobo, 100m de la Mairie de Boulmiougou",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Somgandé",
+    "phone": "70 14 39 25",
+    "group": 4,
+    "address": "Cité Socogib Somgandé à 200m de la boulangerie Wend Konta",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Sondogo",
+    "phone": "71 81 80 84",
+    "group": 4,
+    "address": "Rue BOASSA devant le CSPS de Sondogo",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Sotisse",
+    "phone": "70 14 39 75",
+    "group": 4,
+    "address": "Quartier Wayalguin à côté de la Clinique de l’Est",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Sü-Maasem",
+    "phone": "25 50 08 08",
+    "group": 4,
+    "address": "",
+    "lat": 12.3681873,
+    "lng": -1.5270944
+  },
+  {
+    "name": "Vénégré",
+    "phone": "25 43 05 87",
+    "group": 4,
+    "address": "Arrdt 6 non loin de la Clnique EL Fateh Suka",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Vidal Bafa",
+    "phone": "25 31 52 88",
+    "group": 4,
+    "address": "Avenue Oumarou Kanazoé, Sect 7, près de l’école de l’Onatel",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Wend Yam",
+    "phone": "73 21 84 79",
+    "group": 4,
+    "address": "Route de Ouahigouya, à la _x001E_n des 2 voies, à 500m du marché de bétail",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Wend Zinkré",
+    "phone": "25 46 54 24",
+    "group": 4,
+    "address": "En face de la nouvelle Mairie de Saaba",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Yan-marou",
+    "phone": "25 46 50 06",
+    "group": 4,
+    "address": "Marcoussis à 200m du grand Rond-point",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Yentema",
+    "phone": "56 56 00 00",
+    "group": 4,
+    "address": "Route CHU Tingandogo à côté de la Cave du Sud",
+    "lat": null,
+    "lng": null
+  }
+]

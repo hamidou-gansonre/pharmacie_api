@@ -17,10 +17,11 @@ model Pharmacie {
   nom         String   @db.VarChar(150)
   telephone   String   @db.VarChar(20)
   groupeGarde Int      @map("groupe_garde")
-  secteur     String?  @db.VarChar(100)
+  ville     String  @db.VarChar(100)
   description String?  @map("description_localisation") @db.Text
   latitude    Float
   longitude   Float
 
   @@map("pharmacies")
+  @@index([ville, groupeGarde])
 }

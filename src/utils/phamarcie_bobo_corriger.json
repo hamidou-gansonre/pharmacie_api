@@ -1,0 +1,668 @@
+[
+  {
+    "name": "Pharmacie Aoudi",
+    "phone": "20 98 18 98",
+    "group": 1,
+    "address": "Bolmakoté, face Sapeurs Pompiers",
+    "lat": 12.3683156,
+    "lng": -1.5239611,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Belleville",
+    "phone": "20 98 22 00",
+    "group": 1,
+    "address": "Route de l’INSSA, à côté du petit marché Belle-ville",
+    "lat": 12.307593,
+    "lng": -1.5580288,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Bethel",
+    "phone": "20 97 37 59",
+    "group": 1,
+    "address": "Sect. 21 (Colsama) à 100m du temple Bethel",
+    "lat": 12.3324969,
+    "lng": -1.5140799,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Colombe",
+    "phone": "02 75 72 40",
+    "group": 1,
+    "address": "Sect 11, Colma, route Dédougou à 200m de Wend-Konta",
+    "lat": 12.4052737,
+    "lng": -1.5843593,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Diyama",
+    "phone": "70 17 2823",
+    "group": 4,
+    "address": "Section 25 côté Sud OCADES",
+    "lat": 12.3637093,
+    "lng": -1.499213,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Esperance",
+    "phone": "20 97 47 17",
+    "group": 1,
+    "address": "Bindougousso à 200m de Maderssa Salam",
+    "lat": 12.4013855,
+    "lng": -1.5694474,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Fanyansa",
+    "phone": "20 97 14 80",
+    "group": 1,
+    "address": "Av. Nelson Mandela à 100m du centre des jeunes de Ouezzin-ville",
+    "lat": 12.3499844,
+    "lng": -1.4792868,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Harmonie",
+    "phone": "20 97 07 17",
+    "group": 1,
+    "address": "Lafiabougou, route de Orodara",
+    "lat": 12.3234987,
+    "lng": -1.494777,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Jolean",
+    "phone": "20 98 21 20",
+    "group": 1,
+    "address": "Sect. 22, entre le plateau Yêguéré et CMA 22",
+    "lat": 12.3669206,
+    "lng": -1.5148791,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Kiri",
+    "phone": "52 73 20 20",
+    "group": 1,
+    "address": "Face CSPS de KIRI, sect 23",
+    "lat": 12.2618519,
+    "lng": -1.4648153,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Levant",
+    "phone": "20 97 03 33",
+    "group": 1,
+    "address": "Sikasso Sira route camp miltaire Ouezzin Coulibaly",
+    "lat": 12.3757507,
+    "lng": -1.4776008,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Orlea",
+    "phone": "25 39 25 33",
+    "group": 1,
+    "address": "Sect. 19, zone industrielle port sec, route de Banfora",
+    "lat": 12.3647851,
+    "lng": -1.5142633,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Remedis",
+    "phone": "20 97 09 52",
+    "group": 1,
+    "address": "Sect. 05 entre Maison de la culture et place de la femme",
+    "lat": 12.3437178,
+    "lng": -1.5261473,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Moderne",
+    "phone": "20 97 02 50",
+    "group": 1,
+    "address": "Sect. 05 entre Maison de la culture et place de la femme",
+    "lat": 12.3089375,
+    "lng": -1.5554375,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Sala",
+    "phone": "20 97 18 89",
+    "group": 1,
+    "address": "Colma, route de Bo o 2010 à 200 m des rails",
+    "lat": 12.3133158,
+    "lng": -1.5144905,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Sibiri",
+    "phone": "20 97 79 02",
+    "group": 1,
+    "address": "Sect. 25, route de Ouaga, collé à la Pyramide",
+    "lat": 12.3949514,
+    "lng": -1.4651448,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Wobi",
+    "phone": "20 97 36 97",
+    "group": 1,
+    "address": "Av. de la République face Ex gare de SOGEBAF",
+    "lat": 12.3607575,
+    "lng": -1.5168109,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Aeroport",
+    "phone": "20 97 50 14",
+    "group": 2,
+    "address": "Face à la Brakina",
+    "lat": 12.3549934,
+    "lng": -1.513994,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Bolibana",
+    "phone": "20 96 50 96",
+    "group": 2,
+    "address": "Non loin WEND-Konta cité relais sect23",
+    "lat": 12.6460665,
+    "lng": -8.012430799999999,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Boulevard",
+    "phone": "20 97 30 00",
+    "group": 2,
+    "address": "Face à TSR",
+    "lat": 12.4155349,
+    "lng": -1.4712783,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Christ-Roi",
+    "phone": "20 95 58 53",
+    "group": 2,
+    "address": "Sect 24, à 300m du CSPS de Kua",
+    "lat": 12.3344007,
+    "lng": -1.5737303,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Djam",
+    "phone": "57-04-78-85",
+    "group": 2,
+    "address": "Sect 29 à côté de l’INSSA",
+    "lat": 12.323821,
+    "lng": -1.5007671,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Dinie",
+    "phone": "56 89 89 12",
+    "group": 2,
+    "address": "Kodéni, route de Banfora à 100 m de la station Oryx",
+    "lat": 12.3654575,
+    "lng": -1.5151075,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Djena",
+    "phone": "20 98 37 98",
+    "group": 2,
+    "address": "Av. Nelson Mandela, Ouezzin Ville",
+    "lat": 12.3790251,
+    "lng": -1.4883728,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Havvah",
+    "phone": "20 95 75 98",
+    "group": 2,
+    "address": "A côté de Burkina secours sect24",
+    "lat": 12.3736661,
+    "lng": -1.5201894,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Houet Nouvelle",
+    "phone": "20 95 53 08",
+    "group": 2,
+    "address": "Sect. 1 à côté de la Direction de la SOFITEX",
+    "lat": 12.3603063,
+    "lng": -1.4983828,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Kone",
+    "phone": "20 95 76 95",
+    "group": 2,
+    "address": "A côté du Tribunal du Commerce sect18",
+    "lat": 12.3947251,
+    "lng": -1.4638987,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Lafia",
+    "phone": "20 95 54 37",
+    "group": 2,
+    "address": "Yeguere coura route Bobo 2010",
+    "lat": 12.3861431,
+    "lng": -1.4780849,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Lucien",
+    "phone": "20 97 51 52",
+    "group": 2,
+    "address": "Sect. 1 à côté du commissariat central",
+    "lat": 12.3243549,
+    "lng": -1.5493731,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Mah-Ta",
+    "phone": "20 98 28 25",
+    "group": 2,
+    "address": "Sect. 21, face à la base aériènne, route de Nasso",
+    "lat": 12.3591177,
+    "lng": -1.6787972,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Nazindi-Gouba",
+    "phone": "20 97 57 57",
+    "group": 2,
+    "address": "Colma, route de Dédougou, face au CAS",
+    "lat": 12.3777435,
+    "lng": -1.4598057,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Nazounki",
+    "phone": "20 97 31 00",
+    "group": 2,
+    "address": "Sect. 22 à 200m du Stade LAMIZANA",
+    "lat": 11.1900321,
+    "lng": -4.326328,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Sarfalao",
+    "phone": "20 97 01 35",
+    "group": 2,
+    "address": "A 200m de la Mairie, Arrdt N°5 (ex DAFRA)",
+    "lat": 11.1568497,
+    "lng": -4.2769281,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Sifoma",
+    "phone": "20 97 19 65",
+    "group": 2,
+    "address": "Accart Ville face à la SONABEL",
+    "lat": 12.238333,
+    "lng": -1.561593,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Sya (Ex Dafra)",
+    "phone": "20 97 79 93",
+    "group": 2,
+    "address": "Rue Vicens, face au rond point des 03 luttes",
+    "lat": 12.3749486,
+    "lng": -1.4967974,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Zoe",
+    "phone": "63 10 07 75",
+    "group": 2,
+    "address": "Sect. 20, route de Orodara, Paroisse St Jean Paul II / Lafiabougou",
+    "lat": 12.3749924,
+    "lng": -1.4853761,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Amirbouba",
+    "phone": "25 39 34 64",
+    "group": 3,
+    "address": "Sect. 10, côté Est du CMA de Dô, vers l’Ex gare de Dandé",
+    "lat": 11.2053711,
+    "lng": -4.3112148,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Becy",
+    "phone": "20 95 58 41",
+    "group": 3,
+    "address": "Sarfalao, à 200m de SOS Village enfant",
+    "lat": 12.369989,
+    "lng": -1.5202496,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Boyam",
+    "phone": "20 95 64 29",
+    "group": 3,
+    "address": "Bindougousso, à 500m du CMA de Dafra",
+    "lat": null,
+    "lng": null,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Entente",
+    "phone": "20 97 19 16",
+    "group": 3,
+    "address": "Koko, à 300m de la maternité Guimbi OUATTARA",
+    "lat": 12.3502256,
+    "lng": -1.4849035,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Hayatt",
+    "phone": "20 97 00 00",
+    "group": 3,
+    "address": "Belle-Ville, route de Nasso",
+    "lat": 12.332708,
+    "lng": -1.5189759,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Hereso",
+    "phone": "20 97 09 95",
+    "group": 3,
+    "address": "Sarfalao, face à la place de la femme",
+    "lat": 12.3120985,
+    "lng": -1.50272,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Lame",
+    "phone": "20 95 76 75",
+    "group": 3,
+    "address": "A côté de la station Ola Bobo 2010 route de Bama",
+    "lat": 12.3657098,
+    "lng": -1.5278665,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Medine",
+    "phone": "20 97 09 10",
+    "group": 3,
+    "address": "Sect. 01, Av. de la République, à 100m de la DIACFA",
+    "lat": 12.3579086,
+    "lng": -1.5213768,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Oulagnan Traore",
+    "phone": "57 93 93 56",
+    "group": 3,
+    "address": "Marche de fruits sect10",
+    "lat": 12.3441594,
+    "lng": -1.5692951,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Soudia",
+    "phone": "20 97 14 49",
+    "group": 3,
+    "address": "Av. de l’Unité, voie menant à l’hippodrome",
+    "lat": 12.3585659,
+    "lng": -1.5198674,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Souligne",
+    "phone": "20 97 08 16",
+    "group": 3,
+    "address": "Sect. 01, imm SANGA Issa, siège ORANGE",
+    "lat": 11.1741317,
+    "lng": -4.2999574,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Saint-Antoine",
+    "phone": "20 95 13 01",
+    "group": 3,
+    "address": "Sakabi, route de Dédougou",
+    "lat": 12.3729,
+    "lng": -1.5264,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Saint-Raphael",
+    "phone": "20 98 63 91",
+    "group": 3,
+    "address": "Lafiabougou, route de Banfora",
+    "lat": 12.289455,
+    "lng": -1.474107,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Samhita",
+    "phone": "25 39 34 81",
+    "group": 3,
+    "address": "Sect. 24, après l’école prima re KUA D. sur la grande voie",
+    "lat": 12.3710776,
+    "lng": -1.4839776,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Sanitas",
+    "phone": "20 97 22 42",
+    "group": 3,
+    "address": "Marchés du sect. 25",
+    "lat": 12.2924189,
+    "lng": -1.4831711,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Tene",
+    "phone": "20 66 00 05",
+    "group": 3,
+    "address": "Sect. 14, Bindougousso, à 300m de la station Shell",
+    "lat": 12.3563998,
+    "lng": -1.4853782,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Vitalis",
+    "phone": "70 52 39 57",
+    "group": 3,
+    "address": "Sect. 22, route du plateau de Yéguèré",
+    "lat": 12.3850371,
+    "lng": -1.5687883,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Yamba",
+    "phone": "20 97 77 78",
+    "group": 3,
+    "address": "Souroukoukin, 300m de l’ex Ecole Jamot, route Bobo 2010",
+    "lat": 12.3776149,
+    "lng": -1.4647848,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Abby",
+    "phone": "20 97 63 64",
+    "group": 4,
+    "address": "Belle-ville à 100m de la Station Shell",
+    "lat": 12.3704127,
+    "lng": -1.5021437,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Adama Traore",
+    "phone": "76 44 43 06",
+    "group": 4,
+    "address": "Route de Leguema, face cite SONATUR sect32",
+    "lat": 12.3697259,
+    "lng": -1.4796459,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Amine",
+    "phone": "20 97 19 97",
+    "group": 4,
+    "address": "Sect. 22 à 300m côté Ouest CMA de 22",
+    "lat": 12.3331701,
+    "lng": -1.5175419,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Aube Nouvelle",
+    "phone": "20 9778 78",
+    "group": 4,
+    "address": "Sect 17, Face Marché de Sarfalao",
+    "lat": 12.3603063,
+    "lng": -1.4983828,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Audrey",
+    "phone": "20 95 44 69",
+    "group": 4,
+    "address": "Sect. 24, face à la station Oil Lybia, route Ouaga",
+    "lat": 12.2899025,
+    "lng": -1.5753837,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Bien-Etre",
+    "phone": "20 97 20 79",
+    "group": 4,
+    "address": "Route du marché de fruits, à côté Agence Orange sect21",
+    "lat": 12.3854402,
+    "lng": -1.4944848,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Colma",
+    "phone": "20 95 17 02",
+    "group": 4,
+    "address": "Derrière la mairie de Colma, en face du petit marché.",
+    "lat": 12.238333,
+    "lng": -1.561593,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Dogona",
+    "phone": "20 95 64 48",
+    "group": 4,
+    "address": "A côté du lycée Marie Adelaide de CISSE",
+    "lat": 12.238333,
+    "lng": -1.561593,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Ekossinnes",
+    "phone": "60 76 38 38",
+    "group": 4,
+    "address": "Bobo 2010",
+    "lat": 11.2229576,
+    "lng": -4.3065098,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Grace Divine",
+    "phone": "20 97 48 25",
+    "group": 4,
+    "address": "Sarfalao, face au chateau d’eau",
+    "lat": 12.3378606,
+    "lng": -1.5649786,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Hadim",
+    "phone": "20 98 42 00",
+    "group": 4,
+    "address": "Boulevard face à la cité an II, non loin de la SONABEL",
+    "lat": 11.1780722,
+    "lng": -4.27271,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Hopital",
+    "phone": "20 98 37 47",
+    "group": 4,
+    "address": "Face au camp militaire Ouezzin Coulibaly",
+    "lat": 12.3835886,
+    "lng": -1.5064573,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Jigiya",
+    "phone": "20 97 12 04",
+    "group": 4,
+    "address": "Accart ville à 50 m du marché",
+    "lat": 12.3584184,
+    "lng": -1.5204045,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Kanta",
+    "phone": "20 66 10 51",
+    "group": 4,
+    "address": "Sect. 21, sur les voies du Conseil Regional/Station Shell",
+    "lat": 12.3727695,
+    "lng": -1.4669316,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Lafiabougou",
+    "phone": "20 95 64 27",
+    "group": 4,
+    "address": "A côté de l’école Sapeur pompiers",
+    "lat": 11.1448189,
+    "lng": -4.3282595,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Lakari",
+    "phone": "53 68 18 18",
+    "group": 4,
+    "address": "Rue Vicens, Koko à côté du pont Bessin",
+    "lat": 11.1762803,
+    "lng": -4.2885252,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Sakaby",
+    "phone": "60 75 36 36",
+    "group": 4,
+    "address": "Sect. 10, face à total, à 400m du CSPS de Sakaby",
+    "lat": 11.2136802,
+    "lng": -4.283492499999999,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Samba",
+    "phone": "04 37 24 24",
+    "group": 4,
+    "address": "À côté du CSPS St Bernard Bindougousso sect 14",
+    "lat": 12.376734,
+    "lng": -1.5436455,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Siyara",
+    "phone": "20 97 13 73",
+    "group": 4,
+    "address": "Sect. 01 face au Grand marché",
+    "lat": 12.4280463,
+    "lng": -1.490406,
+    "ville": "BOBO DIOULASSO"
+  },
+  {
+    "name": "Pharmacie Solidarite",
+    "phone": "20 97 17 26",
+    "group": 4,
+    "address": "Médina Coura, route Trypano",
+    "lat": 12.3851182,
+    "lng": -1.5463163,
+    "ville": "BOBO DIOULASSO"
+  }
+]

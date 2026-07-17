@@ -1,0 +1,954 @@
+[
+  {
+    "address": "9G84+PCX, Ave Babanguida, Dagnoen, Ouagadougou, Burkina Faso",
+    "lat": 12.3668563,
+    "lng": -1.4938835,
+    "phone": "25 36 02 52",
+    "name": "Pharmacie 1200 logements",
+    "group": 4
+  },
+  {
+    "address": "Entre le CMA de Pissy et le Centre Médical Source de Vie (A 200 m du C.M. Source de Vie)",
+    "lat": 12.3296332,
+    "lng": -1.5703082,
+    "phone": "63883939",
+    "name": "Pharmacie Adadoua",
+    "group": 2
+  },
+  {
+    "address": "En face du Marché de Pissy non loin de la Caisse Populaire",
+    "lat": 12.3358256,
+    "lng": -1.568147,
+    "phone": "62337777",
+    "name": "Pharmacie Adama",
+    "group": 4
+  },
+  {
+    "address": "Face à l’ASECNA à 500m de l’Aeroport International de Ouagadougou",
+    "lat": 12.3506885,
+    "lng": -1.5212303,
+    "phone": "25314222",
+    "name": "Pharmacie Aéroport",
+    "group": 2
+  },
+  {
+    "address": "Zone 1 à 300m du Lycée Badenya, face au non loti",
+    "lat": 12.3556362,
+    "lng": -1.4686317,
+    "phone": "66 11 73 65",
+    "name": "Pharmacie Afiya",
+    "group": 4
+  },
+  {
+    "address": "Marché Rood Wooko, face à DIACFA Librairie",
+    "lat": 12.3709274,
+    "lng": -1.5211507,
+    "phone": "78 83 61 48",
+    "name": "Pharmacie Agora",
+    "group": 2
+  },
+  {
+    "address": "En Face de la Mairie de Karpala (Arrdt. 11) env. 20m après le Chateau de l’ONEA",
+    "lat": 12.3391823,
+    "lng": -1.4797929,
+    "phone": "25 39 36 99",
+    "name": "Pharmacie Aïmèvo",
+    "group": 3
+  },
+  {
+    "address": "9F66+C37, Avenue Kadiogo, Petit Paris, Ouagadougou, Burkina Faso",
+    "lat": 12.3610293,
+    "lng": -1.5398363,
+    "phone": "25 34 33 28",
+    "name": "Pharmacie AMARO",
+    "group": 2
+  },
+  {
+    "address": "Manivelle Productions, Rue Weem Doogo, Wemtenga, Ouagadougou, Burkina Faso",
+    "lat": 12.3696055,
+    "lng": -1.4840283,
+    "phone": "70 27 62 06",
+    "name": "Pharmacie Amina",
+    "group": 2
+  },
+  {
+    "address": "Boulevard de la circulaire, sect. 25 Cissin, à 200m du marché de Paagla yiri",
+    "lat": 12.3347403,
+    "lng": -1.5352605,
+    "phone": "25 38 52 36",
+    "name": "Pharmacie Amitié Miyougou",
+    "group": 4
+  },
+  {
+    "address": "Tampouy, Ouagadougou, Burkina Faso",
+    "lat": 12.3898845,
+    "lng": -1.5629467,
+    "phone": "63 00 57 30",
+    "name": "Pharmacie ANGELE",
+    "group": 4
+  },
+  {
+    "address": "Pissy, Face à la station OTAM. Croisement rue 17.619 et rue Boassa, côté Ecole Adventiste Élysée",
+    "lat": 12.3318624,
+    "lng": -1.5846716,
+    "phone": "79 20 01 83",
+    "name": "Pharmacie Archanges",
+    "group": 1
+  },
+  {
+    "address": "Av. Yatenga à Tampouy, face à la Caisse Populaire",
+    "lat": 12.3897059,
+    "lng": -1.5738651,
+    "phone": "266 25 35 09 86",
+    "name": "Pharmacie Ar-rahma",
+    "group": 2
+  },
+  {
+    "address": "Quartier Pissy, à 100m de la clinique du Plateau, non loin de la salle de ciné de Pissy",
+    "lat": 12.332142,
+    "lng": -1.5745954,
+    "phone": "25 48 01 53",
+    "name": "Pharmacie Arzouma",
+    "group": 3
+  },
+  {
+    "address": "Sise à Ouaga 2000 à environ 300m de l’échangeur en partance vers le monument des martyres",
+    "lat": 12.3257446,
+    "lng": -1.5031049,
+    "phone": "25 37 61 00",
+    "name": "Pharmacie Augustine",
+    "group": 2
+  },
+  {
+    "address": "Karpala non loin de la Station Oryx et eau OCÉAN",
+    "lat": 12.3236618,
+    "lng": -1.4691366,
+    "phone": "25 47 98 88",
+    "name": "Pharmacie Avé Maria",
+    "group": 3
+  },
+  {
+    "address": "1296 av. BABANGUIDA face à la station Total",
+    "lat": 12.3754005,
+    "lng": -1.4938625,
+    "phone": "25 65 10 71",
+    "name": "Pharmacie Avenir",
+    "group": 1
+  },
+  {
+    "address": "",
+    "lat": 12.2715294,
+    "lng": -1.4896799,
+    "phone": "77 52 00 36",
+    "name": "Pharmacie Baani",
+    "group": 1
+  },
+  {
+    "address": "Route de Pô, non loin de la Station Total",
+    "lat": 12.3098372,
+    "lng": -1.4821799,
+    "phone": "25 37 51 36",
+    "name": "Pharmacie Balkui",
+    "group": 3
+  },
+  {
+    "address": "Sect. 17 Tanghin devant Arb-Yaar derrière les rails à 100m du Collège Privé Protestant II",
+    "lat": 12.4229676,
+    "lng": -1.5398455,
+    "phone": "25 47 96 86",
+    "name": "Pharmacie Bang-Pooré",
+    "group": 1
+  },
+  {
+    "address": "Marché de Rimkieta en face de la station S.K.I.",
+    "lat": 12.3740681,
+    "lng": -1.5859825,
+    "phone": "25 45 88 88",
+    "name": "Pharmacie Bao Neeré",
+    "group": 2
+  },
+  {
+    "address": "Tampouy sur le nouveau goudron du collège Notre Dame de l'Espérance non loin de \"La Roche",
+    "lat": 12.4036467,
+    "lng": -1.5774888,
+    "phone": "63 83 91 06",
+    "name": "Pharmacie Baowendsom",
+    "group": 1
+  },
+  {
+    "address": "9FF6+9C7, Ave Yatenga, Larlé, Ouagadougou, Burkina Faso",
+    "lat": 12.3734152,
+    "lng": -1.5389601,
+    "phone": "25 33 02 72",
+    "name": "Pharmacie Baraka",
+    "group": 3
+  },
+  {
+    "address": "Arrdt 8, Sect 35, face à la cité de Rimkièta",
+    "lat": 12.2385217,
+    "lng": -1.561593,
+    "phone": "25 40 85 90",
+    "name": "Pharmacie Barkwende",
+    "group": 1
+  },
+  {
+    "address": "Quartier Bassinko à 50 m du CSPS de Bassinko Village",
+    "lat": 12.3912864,
+    "lng": -1.6336708,
+    "phone": "25 41 71 50",
+    "name": "Pharmacie Bassinko",
+    "group": 4
+  },
+  {
+    "address": "Blvd. France-Afrique Ouaga 2000 en face de la cite Azimo",
+    "lat": 12.3075347,
+    "lng": -1.5284081,
+    "phone": "25 37 47 11",
+    "name": "Pharmacie Beatitudes",
+    "group": 1
+  },
+  {
+    "address": "Quartier Sanyiri, non loin du CSPS Major, derrière le GIGN",
+    "lat": 12.3450419,
+    "lng": -1.4797187,
+    "phone": "25 47 58 25",
+    "name": "Pharmacie Bedjou",
+    "group": 4
+  },
+  {
+    "address": "Katre-yaare ex secteur 29",
+    "lat": 12.3501206,
+    "lng": -1.4793082,
+    "phone": "25 37 28 30",
+    "name": "Pharmacie Benaia",
+    "group": 1
+  },
+  {
+    "address": "9F78+JG7, Ave Oumarou Kanazoe, Bilbalogho, Ouagadougou, Burkina Faso",
+    "lat": 12.3640405,
+    "lng": -1.5336946,
+    "phone": "25 31 31 41",
+    "name": "Pharmacie Bethania",
+    "group": 4
+  },
+  {
+    "address": "9FCJ+H4G 10010/TEL:50656631, BP:30419, Ouagadougou, Burkina Faso",
+    "lat": 12.3714277,
+    "lng": -1.5196603,
+    "phone": "",
+    "name": "PHARMACIE BLANDINE CONGO",
+    "group": 4
+  },
+  {
+    "address": "Après le rond point de la Transition à 200m du maquis Ka La Gabon",
+    "lat": 12.2823193,
+    "lng": -1.5786817,
+    "phone": "01 75 99 75",
+    "name": "Pharmacie Blessing",
+    "group": 3
+  },
+  {
+    "address": "Arrdt n°6, Sect 27, 166 rue de Boassa, Pissy à 200m du Complexe Scolaire Sainte-Famille",
+    "lat": 12.3351511,
+    "lng": -1.5795283,
+    "phone": "25 43 12 68",
+    "name": "Pharmacie Boulmiougou",
+    "group": 2
+  },
+  {
+    "address": "9FR8+RGW, Tangen, Tanghin, Burkina Faso",
+    "lat": 12.3921028,
+    "lng": -1.5336767,
+    "phone": "25 48 59 59",
+    "name": "Pharmacie ChristVi",
+    "group": 3
+  },
+  {
+    "address": "Patte d´oie, Ouagadougou, Burkina Faso",
+    "lat": 12.3325457,
+    "lng": -1.5162308,
+    "phone": "78 83 63 82",
+    "name": "Pharmacie Circulaire Sede",
+    "group": 4
+  },
+  {
+    "address": "8FGJ+W7W, Patte d´oie, Ouagadougou, Burkina Faso",
+    "lat": 12.327362,
+    "lng": -1.5193038,
+    "phone": "25 38 83 90",
+    "name": "Pharmacie Coura",
+    "group": 3
+  },
+  {
+    "address": "01 BP 2823 Rue du barrage X avenue56 Ouagadougou, 01, Burkina Faso",
+    "lat": 12.3799053,
+    "lng": -1.5239254,
+    "phone": "25 31 84 31",
+    "name": "pharmacie Dapoya",
+    "group": 2
+  },
+  {
+    "address": "9FCJ+H4G, Koulouba, Ouagadougou, Burkina Faso",
+    "lat": 12.3714277,
+    "lng": -1.5196603,
+    "phone": "",
+    "name": "Pharmacie de bonheur ville",
+    "group": 1
+  },
+  {
+    "address": "9F9F+F57, Avenue Maurice Yameogo, Koulouba, Ouagadougou, Burkina Faso",
+    "lat": 12.368651,
+    "lng": -1.5270725,
+    "phone": "",
+    "name": "Pharmacie de karpala",
+    "group": 2
+  },
+  {
+    "address": "9FF3+2MG, Boulevard Che Guevara, Larlé, Ouagadougou, Burkina Faso",
+    "lat": 12.3725662,
+    "lng": -1.5457844,
+    "phone": "",
+    "name": "Pharmacie de l´Espoir",
+    "group": 4
+  },
+  {
+    "address": "Nonsin, Ouagadougou, Burkina Faso",
+    "lat": 12.3756732,
+    "lng": -1.5575485,
+    "phone": "25 34 02 32",
+    "name": "Pharmacie de l´Hippodrome Sarl",
+    "group": 4
+  },
+  {
+    "address": "9C2V+VC5, Boulevard Tensoba Wam Godi, Goughin, Ouagadougou, Burkina Faso",
+    "lat": 12.3521445,
+    "lng": -1.5563967,
+    "phone": "",
+    "name": "Pharmacie de l´unité",
+    "group": 4
+  },
+  {
+    "address": "A l'ouest de l'église Cathédrale 38 avenue de la Cathédrale Côté sud de la station Total Ouagadougou BF, Ouagadougou, Burkina Faso",
+    "lat": 12.363739,
+    "lng": -1.5242517,
+    "phone": "25 65 46 28",
+    "name": "Pharmacie de la Cathedrale",
+    "group": 2
+  },
+  {
+    "address": "9F8J+V9J, Koulouba, Ouagadougou, Burkina Faso",
+    "lat": 12.3672097,
+    "lng": -1.5191037,
+    "phone": "25 31 29 49",
+    "name": "Pharmacie de la Concorde",
+    "group": 3
+  },
+  {
+    "address": "",
+    "lat": 12.358492,
+    "lng": -1.5368433,
+    "phone": "25 43 06 85",
+    "name": "Pharmacie de la Famille",
+    "group": 3
+  },
+  {
+    "address": "9FFH+R9F, Ave Dimdolossom, Ouagadougou, Burkina Faso",
+    "lat": 12.3745746,
+    "lng": -1.5215853,
+    "phone": "62 19 16 04",
+    "name": "Pharmacie de la Gare",
+    "group": 4
+  },
+  {
+    "address": "9CCR+QV7, rue 10.61, Hamdalaye, Ouagadougou, Burkina Faso",
+    "lat": 12.3719156,
+    "lng": -1.5578295,
+    "phone": "25 34 35 04",
+    "name": "Pharmacie de la jeunesse",
+    "group": 3
+  },
+  {
+    "address": "9FH9+38C, Dapoya, Ouagadougou, Burkina Faso",
+    "lat": 12.3776758,
+    "lng": -1.5317193,
+    "phone": "25 41 01 31",
+    "name": "Pharmacie de la Liberté",
+    "group": 1
+  },
+  {
+    "address": "9FGH+XHH, Ave Dimdolossom, Dapoya, Ouagadougou, Burkina Faso",
+    "lat": 12.3774415,
+    "lng": -1.5210299,
+    "phone": "",
+    "name": "Pharmacie de la Savane",
+    "group": 3
+  },
+  {
+    "address": "9GJ4+QJ5, Ave Babanguida, Zogona, Ouagadougou, Burkina Faso",
+    "lat": 12.3818922,
+    "lng": -1.4933921,
+    "phone": "25 36 09 70",
+    "name": "Pharmacie de la Teranga",
+    "group": 3
+  },
+  {
+    "address": "9FJV+V9F, Avenue du Capitaine Thomas Sankara, Ouagadougou, Burkina Faso",
+    "lat": 12.3821996,
+    "lng": -1.5065921,
+    "phone": "25 30 66 41",
+    "name": "Pharmacie de l'Hôpital",
+    "group": 4
+  },
+  {
+    "address": "8FGP+RXH Patte d'oie, Av. Père Joseph Wresinski, Patte d´oie, Ouagadougou, Burkina Faso",
+    "lat": 12.327067,
+    "lng": -1.5125047,
+    "phone": "25 38 03 82",
+    "name": "Pharmacie Des Apôtres",
+    "group": 1
+  },
+  {
+    "address": "Av. de la Liberté, Dapoya, Ouagadougou, Burkina Faso",
+    "lat": 12.3818559,
+    "lng": -1.5162671,
+    "phone": "25 31 52 32",
+    "name": "Pharmacie des Écoles",
+    "group": 3
+  },
+  {
+    "address": "Tanghin, non loin de Hôtel Ricardo",
+    "lat": 12.3914216,
+    "lng": -1.5244258,
+    "phone": "25 47 50 50",
+    "name": "Pharmacie Desa",
+    "group": 1
+  },
+  {
+    "address": "non loin du Festival des Glaces, Centre ville, Ave Houari Boumedienne, Ouagadougou, Burkina Faso",
+    "lat": 12.3652843,
+    "lng": -1.5168797,
+    "phone": "25 33 50 00",
+    "name": "Pharmacie DIABY",
+    "group": 1
+  },
+  {
+    "address": "Koulouba, Ouagadougou, Burkina Faso",
+    "lat": 12.3669059,
+    "lng": -1.5241445,
+    "phone": "66 54 90 89",
+    "name": "Pharmacie Diawara",
+    "group": 4
+  },
+  {
+    "address": "CF3P+F8H, Ouagadougou, Burkina Faso",
+    "lat": 12.4036997,
+    "lng": -1.5141352,
+    "phone": "25 35 77 65",
+    "name": "Pharmacie Djimbia",
+    "group": 3
+  },
+  {
+    "address": "9F99+3JV, Ave Kadiogo, Bilbalogho, Ouagadougou, Burkina Faso",
+    "lat": 12.3677252,
+    "lng": -1.5309476,
+    "phone": "25 33 23 10",
+    "name": "Pharmacie du Carrefour",
+    "group": 3
+  },
+  {
+    "address": "9C3X+H27, Ave Kadiogo, Goughin, Ouagadougou, Burkina Faso",
+    "lat": 12.353903,
+    "lng": -1.5524409,
+    "phone": "25 34 19 39",
+    "name": "Pharmacie du Rivage",
+    "group": 1
+  },
+  {
+    "address": "9F8P+G49, Koulouba, Ouagadougou, Burkina Faso",
+    "lat": 12.3662949,
+    "lng": -1.5146408,
+    "phone": "25 31 81 95",
+    "name": "Pharmacie du Sahel",
+    "group": 4
+  },
+  {
+    "address": "Avenue Babanguida, 1200 Logements, Ouagadougou, Burkina Faso",
+    "lat": 12.3592658,
+    "lng": -1.4952633,
+    "phone": "25 36 20 51",
+    "name": "Pharmacie Dunia",
+    "group": 3
+  },
+  {
+    "address": "rue 22.112, Tampouy, Ouagadougou, Burkina Faso",
+    "lat": 12.3971403,
+    "lng": -1.5551128,
+    "phone": "25 41 05 75",
+    "name": "PHARMACIE FABERE",
+    "group": 3
+  },
+  {
+    "address": "8FPR+RQG, Kalgondin, Ouagadougou, Burkina Faso",
+    "lat": 12.3370658,
+    "lng": -1.5080412,
+    "phone": "25 40 73 44",
+    "name": "Pharmacie Flayiri",
+    "group": 2
+  },
+  {
+    "address": "rue 22.02, Tampouy, Ouagadougou, Burkina Faso",
+    "lat": 12.3922709,
+    "lng": -1.5507399,
+    "phone": "74 44 42 09",
+    "name": "PHARMACIE GOVA",
+    "group": 1
+  },
+  {
+    "address": "9CFV+MMX, rue Guinko, Hamdalaye, Ouagadougou, Burkina Faso",
+    "lat": 12.3752816,
+    "lng": -1.5513663,
+    "phone": "25 34 36 94",
+    "name": "Pharmacie Hamdalaye sarl",
+    "group": 2
+  },
+  {
+    "address": "Boulevard T. KAND-LALSE, Tanghin, Ouagadougou, Burkina Faso",
+    "lat": 12.4004904,
+    "lng": -1.5376327,
+    "phone": "25 41 81 54",
+    "name": "Pharmacie Jean Paul II",
+    "group": 4
+  },
+  {
+    "address": "9FCJ+H4G, Koulouba, Ouagadougou, Burkina Faso",
+    "lat": 12.3714277,
+    "lng": -1.5196603,
+    "phone": "",
+    "name": "Pharmacie jober",
+    "group": 1
+  },
+  {
+    "address": "8FHF+XFJ, Patte d´oie, Ouagadougou, Burkina Faso",
+    "lat": 12.3299577,
+    "lng": -1.5263706,
+    "phone": "25 38 48 84",
+    "name": "Pharmacie Kaboré Dominique",
+    "group": 1
+  },
+  {
+    "address": "9F6J+7XQ, Koulouba, Ouagadougou, Burkina Faso",
+    "lat": 12.3607101,
+    "lng": -1.5175128,
+    "phone": "25 31 87 88",
+    "name": "Pharmacie Kadiogo",
+    "group": 4
+  },
+  {
+    "address": "9F43+XPH, Ave Kadiogo, Goughin, Ouagadougou, Burkina Faso",
+    "lat": 12.3574294,
+    "lng": -1.5456287,
+    "phone": "25 34 30 28",
+    "name": "Pharmacie Kamin",
+    "group": 3
+  },
+  {
+    "address": "10360, Ouagadougou, Burkina Faso",
+    "lat": 12.3470131,
+    "lng": -1.5030533,
+    "phone": "25 37 20 13",
+    "name": "Pharmacie KATRA",
+    "group": 1
+  },
+  {
+    "address": "9F58+8R4, Ave Oumarou Kanazoe, Bilbalogho, Ouagadougou, Burkina Faso",
+    "lat": 12.3582695,
+    "lng": -1.5329146,
+    "phone": "",
+    "name": "Pharmacie Keneya",
+    "group": 1
+  },
+  {
+    "address": "9F8R+M52, Ave Houari Boumedienne, Koulouba, Ouagadougou, Burkina Faso",
+    "lat": 12.3666291,
+    "lng": -1.5096143,
+    "phone": "25 31 19 18",
+    "name": "Pharmacie Koulouba",
+    "group": 2
+  },
+  {
+    "address": "9F64+PQC, Boulevard Naba Zombre, ZI de Gounghin, Ouagadougou, Burkina Faso",
+    "lat": 12.3616428,
+    "lng": -1.5436542,
+    "phone": "",
+    "name": "Pharmacie La Croix",
+    "group": 4
+  },
+  {
+    "address": "Nemnin, Ouagadougou, Burkina Faso",
+    "lat": 12.3814458,
+    "lng": -1.5280353,
+    "phone": "25 31 86 48",
+    "name": "Pharmacie la Providence",
+    "group": 4
+  },
+  {
+    "address": "CF5P+PGV, Tangen, Ouagadougou, Burkina Faso",
+    "lat": 12.4093566,
+    "lng": -1.5137114,
+    "phone": "60 80 80 77",
+    "name": "Pharmacie les grâces",
+    "group": 4
+  },
+  {
+    "address": "9F4M+37M, Avenue Kwame Nkrumah, Ouagadougou, Burkina Faso",
+    "lat": 12.3552083,
+    "lng": -1.5168325,
+    "phone": "",
+    "name": "Pharmacie Lina",
+    "group": 1
+  },
+  {
+    "address": "9FJC+9R4, Nemnin, Ouagadougou, Burkina Faso",
+    "lat": 12.3808796,
+    "lng": -1.5279204,
+    "phone": "25335867",
+    "name": "Pharmacie Louis pasteur",
+    "group": 4
+  },
+  {
+    "address": "9F2F+4C3, Kamsonghin, Ouagadougou, Burkina Faso",
+    "lat": 12.3502567,
+    "lng": -1.5264447,
+    "phone": "25 47 41 18",
+    "name": "Pharmacie Maignon",
+    "group": 4
+  },
+  {
+    "address": "9C8X+CQ8, Goughin, Ouagadougou, Burkina Faso",
+    "lat": 12.366049,
+    "lng": -1.5505374,
+    "phone": "25 34 11 28",
+    "name": "Pharmacie Maré",
+    "group": 1
+  },
+  {
+    "address": "CF45+8V, Tangen, Ouagadougou, Burkina Faso",
+    "lat": 12.4058787,
+    "lng": -1.54027,
+    "phone": "78 55 00 52",
+    "name": "Pharmacie Marlass",
+    "group": 2
+  },
+  {
+    "address": "9F63+RXH, Ave Conseil De Entente, Goughin, Ouagadougou, Burkina Faso",
+    "lat": 12.3621323,
+    "lng": -1.5450482,
+    "phone": "",
+    "name": "Pharmacie meira",
+    "group": 2
+  },
+  {
+    "address": "9FVM+RR4, Somgandé, Ouagadougou, Burkina Faso",
+    "lat": 12.3945076,
+    "lng": -1.5154099,
+    "phone": "25 33 53 33",
+    "name": "Pharmacie Meteba",
+    "group": 2
+  },
+  {
+    "address": "9CGP+CF4, Nonsin, Ouagadougou, Burkina Faso",
+    "lat": 12.3760175,
+    "lng": -1.5637845,
+    "phone": "",
+    "name": "Pharmacie Monderou",
+    "group": 1
+  },
+  {
+    "address": "9FXW+MMV, Somgandé, Ouagadougou, Burkina Faso",
+    "lat": 12.3992447,
+    "lng": -1.5033346,
+    "phone": "25 35 70 46",
+    "name": "Pharmacie Naaba Koom",
+    "group": 3
+  },
+  {
+    "address": "9F29+X92, Samandin, Ouagadougou, Burkina Faso",
+    "lat": 12.3523966,
+    "lng": -1.5316118,
+    "phone": "",
+    "name": "Pharmacie Nabraaga",
+    "group": 3
+  },
+  {
+    "address": "8CMW+22X, rue 17.186, Pissy, Ouagadougou, Burkina Faso",
+    "lat": 12.3326124,
+    "lng": -1.5548857,
+    "phone": "",
+    "name": "PHARMACIE NANLE",
+    "group": 1
+  },
+  {
+    "address": "9G58+CM4, rue 29.88, Zone I, Ouagadougou, Burkina Faso",
+    "lat": 12.3585129,
+    "lng": -1.4833119,
+    "phone": "",
+    "name": "Pharmacie Natilge",
+    "group": 4
+  },
+  {
+    "address": "BP 6060, Ouagadougou, Burkina Faso",
+    "lat": 12.4037352,
+    "lng": -1.5325524,
+    "phone": "25 47 69 69",
+    "name": "PHARMACIE NEERWAYA",
+    "group": 1
+  },
+  {
+    "address": "9G45+HHR, Kalgondin, Ouagadougou, Burkina Faso",
+    "lat": 12.3564914,
+    "lng": -1.4911107,
+    "phone": "70 78 49 62",
+    "name": "Pharmacie Némadis",
+    "group": 2
+  },
+  {
+    "address": "9CGJ+535, rue 19.100, Nonsin, Ouagadougou, Burkina Faso",
+    "lat": 12.3746635,
+    "lng": -1.5702447,
+    "phone": "25 41 77 76",
+    "name": "Pharmacie Nonsin",
+    "group": 3
+  },
+  {
+    "address": "Av. de la Dignité, Pissy, Ouagadougou, Burkina Faso",
+    "lat": 12.3331291,
+    "lng": -1.5493024,
+    "phone": "25 30 61 33",
+    "name": "Pharmacie Nouvelle",
+    "group": 1
+  },
+  {
+    "address": "8GP2+29W, Boulvevard des Tensoba, Karpala, Ouagadougou, Burkina Faso",
+    "lat": 12.3351005,
+    "lng": -1.4990333,
+    "phone": "25371652",
+    "name": "PHARMACIE OUEDRAOGO REMI",
+    "group": 4
+  },
+  {
+    "address": "8CRW+QW2, Goughin, Ouagadougou, Burkina Faso",
+    "lat": 12.3418425,
+    "lng": -1.5527044,
+    "phone": "25 43 50 11 ext. 50048991",
+    "name": "Pharmacie prim’santé",
+    "group": 2
+  },
+  {
+    "address": "Av Jean-Baptiste OUEDRAOGO, 800 m au Nord de la Clinique Notre Dame de la Paix a, Somgandé, Ouagadougou, Burkina Faso",
+    "lat": 12.40522,
+    "lng": -1.5063178,
+    "phone": "61 80 20 52",
+    "name": "Pharmacie RAYIB-TIGA",
+    "group": 1
+  },
+  {
+    "address": "9FCJ+H4G, Koulouba, Ouagadougou, Burkina Faso",
+    "lat": 12.3714277,
+    "lng": -1.5196603,
+    "phone": "",
+    "name": "Pharmacie SAABA",
+    "group": 3
+  },
+  {
+    "address": "9F23+FHR, rue 8.52, Goughin, Ouagadougou, Burkina Faso",
+    "lat": 12.3512296,
+    "lng": -1.5461229,
+    "phone": "25 34 60 60",
+    "name": "Pharmacie Sacre Cœur",
+    "group": 3
+  },
+  {
+    "address": "9FHC+HJH, Nemnin, Ouagadougou, Burkina Faso",
+    "lat": 12.3789474,
+    "lng": -1.5283775,
+    "phone": "",
+    "name": "Pharmacie Saint Lazarre",
+    "group": 3
+  },
+  {
+    "address": "9G96+9JV, rue 29.13, Wemtenga, Ouagadougou, Burkina Faso",
+    "lat": 12.3684879,
+    "lng": -1.488452,
+    "phone": "25 41 26 46",
+    "name": "Pharmacie Sainte Trinité",
+    "group": 3
+  },
+  {
+    "address": "",
+    "lat": 12.358492,
+    "lng": -1.5368433,
+    "phone": "63 26 04 04",
+    "name": "Pharmacie Sainte Véronique",
+    "group": 2
+  },
+  {
+    "address": "8GV4+4FQ, Boulevard des Tensoba, Sanyiri, Ouagadougou, Burkina Faso",
+    "lat": 12.3428287,
+    "lng": -1.4937765,
+    "phone": "25 37 00 33",
+    "name": "Pharmacie Saint-jean",
+    "group": 1
+  },
+  {
+    "address": "Ave Ouezzin Coulibaly, Samandin, Ouagadougou, Burkina Faso",
+    "lat": 12.3556092,
+    "lng": -1.5340657,
+    "phone": "50 35 53 78",
+    "name": "Pharmacie SAMANDIN",
+    "group": 2
+  },
+  {
+    "address": "9F7H+XJW, Ave Yennenga, Koulouba, Ouagadougou, Burkina Faso",
+    "lat": 12.3649864,
+    "lng": -1.5209239,
+    "phone": "",
+    "name": "Pharmacie SANGOULE LAMIZANA",
+    "group": 2
+  },
+  {
+    "address": "8FG7+FGV, rue Yanogo Jean, Cissin, Ouagadougou, Burkina Faso",
+    "lat": 12.3262279,
+    "lng": -1.5362187,
+    "phone": "68 91 87 04",
+    "name": "Pharmacie Santé-Vitalité",
+    "group": 3
+  },
+  {
+    "address": "9C2V+XF9, Goughin, Ouagadougou, Burkina Faso",
+    "lat": 12.3524092,
+    "lng": -1.5562582,
+    "phone": "74 23 53 53",
+    "name": "Pharmacie sig-nonghin",
+    "group": 2
+  },
+  {
+    "address": "9F52+9FP, Av. Conseil de l'Entente, Goughin, Ouagadougou, Burkina Faso",
+    "lat": 12.3584573,
+    "lng": -1.5487952,
+    "phone": "25 41 21 48",
+    "name": "Pharmacie SIGRI-Sarl",
+    "group": 2
+  },
+  {
+    "address": "9F4F+942, Avenue Bassawarga, Samandin, Ouagadougou, Burkina Faso",
+    "lat": 12.3558777,
+    "lng": -1.5272432,
+    "phone": "25 31 50 68",
+    "name": "Pharmacie Siloe",
+    "group": 1
+  },
+  {
+    "address": "9GQ5+3Q3, Zone du Bois, Ouagadougou, Burkina Faso",
+    "lat": 12.3876309,
+    "lng": -1.4905646,
+    "phone": "25 36 85 85",
+    "name": "Pharmacie st François d'Assise (nouvel emplacement)",
+    "group": 1
+  },
+  {
+    "address": "9GG5+GJ2, Zogona, Ouagadougou, Burkina Faso",
+    "lat": 12.3762697,
+    "lng": -1.4909898,
+    "phone": "25 36 22 25",
+    "name": "Pharmacie Talba",
+    "group": 2
+  },
+  {
+    "address": "9CXV+MQJ, N22, Tampouy, Ouagadougou, Burkina Faso",
+    "lat": 12.3992142,
+    "lng": -1.5555946,
+    "phone": "25 65 93 40",
+    "name": "Pharmacie Tanko",
+    "group": 2
+  },
+  {
+    "address": "9FHX+9WV, Ouagadougou, Burkina Faso",
+    "lat": 12.3784992,
+    "lng": -1.5001966,
+    "phone": "",
+    "name": "Pharmacie Teranga",
+    "group": 3
+  },
+  {
+    "address": "Dapoya, Ouagadougou, Burkina Faso",
+    "lat": 12.3807982,
+    "lng": -1.5102194,
+    "phone": "25 33 29 41",
+    "name": "Pharmacie Trypano",
+    "group": 1
+  },
+  {
+    "address": "9FCJ+H4G, Koulouba, Ouagadougou, Burkina Faso",
+    "lat": 12.3714277,
+    "lng": -1.5196603,
+    "phone": "",
+    "name": "Pharmacie Vièl",
+    "group": 4
+  },
+  {
+    "address": "8FV5+PRR, Samandin, Ouagadougou, Burkina Faso",
+    "lat": 12.3443619,
+    "lng": -1.5404714,
+    "phone": "",
+    "name": "Pharmacie Wati +",
+    "group": 2
+  },
+  {
+    "address": "9FG4+Q9H, Ave Yatenga, Ouidi, Ouagadougou, Burkina Faso",
+    "lat": 12.3769408,
+    "lng": -1.5440224,
+    "phone": "",
+    "name": "Pharmacie Wend Denda",
+    "group": 3
+  },
+  {
+    "address": "9GG6+6X4, Wemtenga, Ouagadougou, Burkina Faso",
+    "lat": 12.3755034,
+    "lng": -1.4875525,
+    "phone": "25 36 20 15",
+    "name": "Pharmacie Wend Kuuni",
+    "group": 4
+  },
+  {
+    "address": "bp 6399 ouagadougou, Ouagadougou, Burkina Faso",
+    "lat": 12.380624,
+    "lng": -1.5499241,
+    "phone": "78 83 63 41",
+    "name": "Pharmacie Wend-Lamita",
+    "group": 1
+  },
+  {
+    "address": "9G26+FP3, rue Lamboe, Sanyiri, Ouagadougou, Burkina Faso",
+    "lat": 12.3511485,
+    "lng": -1.4882137,
+    "phone": "78 83 62 44",
+    "name": "Pharmacie Yennenga",
+    "group": 3
+  },
+  {
+    "address": "9FHQ+765, Paspanga, Ouagadougou, Burkina Faso",
+    "lat": 12.3781304,
+    "lng": -1.5119047,
+    "phone": "25 31 16 30",
+    "name": "Pharmacie Yobi",
+    "group": 2
+  },
+  {
+    "address": "9FXC+56J, rue 23.125, Tanghin, Ouagadougou, Burkina Faso",
+    "lat": 12.3979596,
+    "lng": -1.5294884,
+    "phone": "25 40 98 75",
+    "name": "Pharmacie Zoungrana",
+    "group": 3
+  }
+]

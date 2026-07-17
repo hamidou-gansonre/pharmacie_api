@@ -9,8 +9,8 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 
-
-app.use(express.json());
+// limit :10mb Augmente la limite pour supporter tes fichiers de pharmacies complets
+app.use(express.json({ limit: '10mb' }));
 
 // Association des routes globales de l'API
 
@@ -24,6 +24,6 @@ app.get('/api/health', (req, res) => {
 
 //Server running
 app.listen(PORT, () => {
-   console.log(`[TypeScript Modulaire] Serveur actif sur : http://localhost:${PORT}`);
-   
+    console.log(`[TypeScript Modulaire] Serveur actif sur : http://localhost:${PORT}`);
+
 });
