@@ -1,5 +1,4 @@
 import { Request, Response } from "express";
-import { error } from "node:console";
 import prisma from "../config/prisma";
 
 export const deletePharmacy = async (req: Request, res: Response): Promise<Response> => {
@@ -33,7 +32,7 @@ export const deletePharmacy = async (req: Request, res: Response): Promise<Respo
         console.error('[deletePharmacy Error]:', error);
         return res.status(500).json({
             success: false,
-            error: error.message
+            error: 'Une erreur interne est survenue'
         });
     }
 }

@@ -1,7 +1,7 @@
 import { Router } from "express";
 
 import { getPharmaciesNearby } from "../controllers/pharmacie.controller";
-import { latLngValidator } from "../middlwares/validation";
+import { latLngValidator } from "../middlewares/validation";
 import { bulkInsertPharmacies } from "../controllers/bulkInsert_pharmacies.controller";
 import { insertPharmacy } from "../controllers/insert_pharmacy.controller";
 import { patchPharmacy, updatePharmacy } from "../controllers/update_pharmacy.controller";

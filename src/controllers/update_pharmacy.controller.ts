@@ -54,7 +54,7 @@ export const patchPharmacy = async (req: Request, res: Response): Promise<Respon
 
     const validation = validatePharmacyUpdate(req.body);
     if (!validation.valid) {
-        return res.status(400).json({ success: false, error: validation.error });
+        return res.status(400).json({ success: false, error: `Pharmacie avec l'id ${id} introuvable` });
     }
 
     try {
@@ -74,6 +74,6 @@ export const patchPharmacy = async (req: Request, res: Response): Promise<Respon
         }
 
         console.error('[patchPharmacy Error]:', error);
-        return res.status(500).json({ success: false, error: error.message });
+        return res.status(500).json({ success: false, error: 'Une erreur interne est survenue', });
     }
 };

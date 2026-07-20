@@ -17,7 +17,7 @@ export const getPharmaciesNearby = async (req: Request, res: Response) => {
 
         const lat = parseCoordinateOrNull(req.query.lat);
         const lng = parseCoordinateOrNull(req.query.lng);
-        const radius = req.query.radius;
+        const radius = parseCoordinateOrNull(req.query.radius);
         const lightMode = req.query.lightMode;
         //const group = parseFloat(req.query.groupe as string);
 
@@ -31,7 +31,7 @@ export const getPharmaciesNearby = async (req: Request, res: Response) => {
         }
 
         // Rayon dynamique : prend le radius du mobile, ou 5000 mètres (5km) par défaut
-        const searchRadius = radius ? parseFloat(radius as string) : 5000;
+        const searchRadius = radius ? radius : 5000;
         // Mode léger dynamique : vérifie si le string vaut "true"
         const isLightMode = lightMode === 'true';
 

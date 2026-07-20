@@ -5,22 +5,12 @@ import { parseCoordinate, parsedGroup, sanitizeText, toPharmacyRecord } from '..
 import { validatePharmacyBatch } from '../utils/pharmacy.validator';
 
 
-// const toPharmacyRecord = (pharmacy: PharmacyJsonInput) => ({
-//     nom: sanitizeText(pharmacy.name, 150),
-//     telephone: sanitizeText(pharmacy.phone ?? '', 20),
-//     description: pharmacy.address?.trim() || null,
-//     ville: pharmacy.ville?.trim(),
-//     latitude: parseCoordinate(pharmacy.lat),
-//     longitude: parseCoordinate(pharmacy.lng),
-//     groupeGarde: parsedGroup(pharmacy.group),
-
-// });
 
 export const bulkInsertPharmacies = async (req: Request, res: Response): Promise<Response> => {
 
     const validation = validatePharmacyBatch(req.body);
     if (!validation.valid) {
-        return res.status(400).json({ message: validation.error });
+        return res.status(400).json({ message: 'Une erreur interne est survenue', });
     }
 
     const pharmaciesList = req.body as PharmacyJsonInput[];
@@ -42,11 +32,11 @@ export const bulkInsertPharmacies = async (req: Request, res: Response): Promise
             totalReceived: pharmaciesList.length,
         });
 
-    } catch (error: any) {
+    } catch (error: unknown) {
         console.error("[Bulk Import Error] :", error);
         return res.status(500).json({
             message: 'Error occurred while inserting pharmacies',
-            details: error.message || error.toString()
+            details: 'Une erreur interne est survenue',
         });
     }
 }

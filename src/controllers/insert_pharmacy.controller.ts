@@ -12,7 +12,7 @@ export const insertPharmacy = async (req: Request, res: Response): Promise<Respo
     //validation du body
     const validation = validatePharmacyInput(req.body);
     if (!validation.valid) {
-        return res.status(400).json({ success: false, error: validation.error });
+        return res.status(400).json({ success: false, error: 'Une pharmacie avec ces informations existe déjà' });
     }
 
     try {
@@ -30,7 +30,7 @@ export const insertPharmacy = async (req: Request, res: Response): Promise<Respo
         });
 
     } catch (error: any) {
-        if (error.code === 'p2002') {
+        if (error.code === 'P2002') {
             return res.status(409).json({
                 success: false,
                 error: 'Une pharmacie avec ces informations existe déjà',
@@ -38,6 +38,6 @@ export const insertPharmacy = async (req: Request, res: Response): Promise<Respo
         }
 
         console.error('[insertPharmacy Error]:', error);
-        return res.status(500).json({ success: false, error: error.message });
+        return res.status(500).json({ success: false, error: 'Une erreur interne est survenue' });
     }
 }
