@@ -6,6 +6,7 @@ import { bulkInsertPharmacies } from "../controllers/bulkInsert_pharmacies.contr
 import { insertPharmacy } from "../controllers/insert_pharmacy.controller";
 import { patchPharmacy, updatePharmacy } from "../controllers/update_pharmacy.controller";
 import { deletePharmacy } from "../controllers/delete_pharmacy.controller";
+import { authenticate, requireAdminOrModerator } from "../middlewares/auth.middleware";
 
 
 const router = Router();
@@ -15,12 +16,12 @@ const router = Router();
 router.get('/proximite', latLngValidator, getPharmaciesNearby);
 
 //route insertion de masse de pharmacies
-router.post('/bulk-insert', bulkInsertPharmacies);
+router.post('/bulk-insert', authenticate, requireAdminOrModerator, bulkInsertPharmacies);
 
 
-router.post('/', insertPharmacy); //insert ONE Pharmacy
+router.post('/', authenticate, requireAdminOrModerator, insertPharmacy); //insert ONE Pharmacy
 //router.put('/:id', updatePharmacy); //update ONE Pharmacy
-router.patch('/:id', patchPharmacy); //update ONE Pharmacy
-router.delete('/:id', deletePharmacy); //delete ONE Pharmacy
+router.patch('/:id', authenticate, requireAdminOrModerator, patchPharmacy); //update ONE Pharmacy
+router.delete('/:id', authenticate, requireAdminOrModerator, deletePharmacy); //delete ONE Pharmacy
 
 export default router;

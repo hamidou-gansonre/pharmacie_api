@@ -5,7 +5,7 @@ dotenv.config();
 import pharmacieRoutes from './routes/pharmacie_route'
 import { registerProcessHandlers } from './config/process_handler';
 import prisma from './config/prisma';
-
+import authRoutes from './routes/auth_route'
 const app = express();
 
 const PORT = process.env.PORT || 3000;
@@ -40,6 +40,7 @@ const startServer = async () => {
         // Association des routes globales de l'API
 
         app.use('/api/pharmacies', pharmacieRoutes);
+        app.use('/api/pharmacies/auth', authRoutes);
 
 
         // Route de base Health check
