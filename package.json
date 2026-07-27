@@ -13,6 +13,7 @@
   },
   "scripts": {
     "build": "tsc",
+    "postbuild": "prisma generate",
     "start": "node dist/server.js",
     "dev": "nodemon src/server.ts",
     "seed": "ts-node prisma/seed.ts"
