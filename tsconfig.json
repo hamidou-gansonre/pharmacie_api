@@ -4,7 +4,7 @@
   "compilerOptions": {
     "target": "ES2022",
     "module": "CommonJS",
-    "rootDir": "./",
+    "rootDir": "./src",
     "outDir": "./dist",
     "esModuleInterop": true,
     "types": ["node"],
@@ -17,5 +17,7 @@
     "compilerOptions": {
       "module": "CommonJS"
     }
-  }
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "prisma", "dist"]
 }
