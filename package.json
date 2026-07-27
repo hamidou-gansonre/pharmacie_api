@@ -12,7 +12,8 @@
     "jsonwebtoken": "^9.0.3"
   },
   "scripts": {
-    "build": "tsc",
+    "postinstall": "prisma generate",
+    "build": "prisma generate && tsc",
     "postbuild": "prisma generate",
     "start": "node dist/server.js",
     "dev": "nodemon src/server.ts",
