@@ -14,10 +14,9 @@
   "scripts": {
     "postinstall": "prisma generate",
     "build": "prisma generate && tsc",
-    "postbuild": "prisma generate",
     "start": "node dist/server.js",
     "dev": "nodemon src/server.ts",
-    "seed": "ts-node prisma/seed.ts"
+    "seed": "prisma db seed"
   },
   "prisma": {
   "seed": "ts-node prisma/seed.ts"
