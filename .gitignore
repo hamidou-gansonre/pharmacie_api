@@ -3,3 +3,10 @@ node_modules
 .env
 /dist
 /src/generated/prisma
+/manquantes_geocodees.json
+/src/utils/geocoder.js
+/src/utils/geocoder.ts
+/src/utils/google_geocoder.ts
+/manquantes_geocodees.json
+/src/utils/pharmacie.json
+/src/utils/pharmacie_bobo.json
