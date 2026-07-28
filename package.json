@@ -13,7 +13,7 @@
   },
   "scripts": {
     "postinstall": "prisma generate",
-    "build": "prisma generate && tsc --pretty false --listFiles",
+    "build": "prisma generate && tsc",
     "start": "node dist/server.js",
     "dev": "nodemon src/server.ts",
     "seed": "prisma db seed"
