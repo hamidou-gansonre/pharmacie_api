@@ -35,13 +35,6 @@ app.use('/api/pharmacies', pharmacieRoutes);
 app.use('/api/auth', authRoutes);
 
 
-// ✅ Route inconnue
-app.use((req: Request, res: Response) => {
-    res.status(404).json({
-        success: false,
-        error: `Route ${req.method} ${req.path} introuvable`,
-    });
-});
 
 // ✅ Global error handler Express
 app.use((err: unknown, req: Request, res: Response, next: NextFunction) => {
@@ -73,6 +66,15 @@ const startServer = async () => {
         app.get('/api/health', (req, res) => {
             res.json({ status: "OK", message: "L'architecture modulaire fonctionne." });
         });
+
+        // ✅ Route inconnue
+        app.use((req: Request, res: Response) => {
+            res.status(404).json({
+                success: false,
+                error: `Route ${req.method} ${req.path} introuvable`,
+            });
+        });
+
 
         //Server running
         const server = app.listen(PORT, '0.0.0.0', () => {
