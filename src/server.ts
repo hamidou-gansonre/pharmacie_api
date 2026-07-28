@@ -2,6 +2,7 @@ import dotenv from 'dotenv';
 import express from 'express';
 import cors from 'cors';
 dotenv.config();
+import { Request, Response, NextFunction } from 'express';
 import pharmacieRoutes from './routes/pharmacie_route'
 import { registerProcessHandlers } from './config/process_handler';
 import prisma from './config/prisma';
@@ -23,6 +24,34 @@ const corsOptions = {
 };
 
 app.use(cors(corsOptions));
+// limit :10mb Augmente la limite pour supporter tes fichiers de pharmacies complets
+app.use(express.json({ limit: '10mb' }));
+
+
+// Association des routes globales de l'API
+
+app.use('/api/pharmacies', pharmacieRoutes);
+app.use('/api/auth', authRoutes);
+
+
+// ✅ Route inconnue
+app.use((req: Request, res: Response) => {
+    res.status(404).json({
+        success: false,
+        error: `Route ${req.method} ${req.path} introuvable`,
+    });
+});
+
+// ✅ Global error handler Express
+app.use((err: unknown, req: Request, res: Response, next: NextFunction) => {
+    console.error('[Unhandled Express Error]:', err);
+    res.status(500).json({
+        success: false,
+        error: 'Une erreur interne est survenue',
+    });
+});
+
+
 
 const startServer = async () => {
     try {
@@ -30,17 +59,6 @@ const startServer = async () => {
         // ✅ Test de connexion réelle avant d'accepter des requêtes
         await prisma.$connect();
         console.log('[Database] Connection established');
-
-        app.use(cors(corsOptions));
-
-        // limit :10mb Augmente la limite pour supporter tes fichiers de pharmacies complets
-        app.use(express.json({ limit: '10mb' }));
-
-
-        // Association des routes globales de l'API
-
-        app.use('/api/pharmacies', pharmacieRoutes);
-        app.use('/api/pharmacies/auth', authRoutes);
 
 
         // Route de base Health check
