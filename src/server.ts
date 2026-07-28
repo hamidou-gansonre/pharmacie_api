@@ -58,11 +58,11 @@ const startServer = async () => {
     try {
 
         // ✅ Migrations automatiques en production
-        if (process.env.NODE_ENV === 'production') {
-            console.log('[Database] Applying migrations...');
-            execSync('npx prisma migrate deploy', { stdio: 'inherit' });
-            console.log('[Database] Migrations applied');
-        }
+        // if (process.env.NODE_ENV === 'production') {
+        //     console.log('[Database] Applying migrations...');
+        //     execSync('npx prisma migrate deploy', { stdio: 'inherit' });
+        //     console.log('[Database] Migrations applied');
+        // }
 
         // ✅ Test de connexion réelle avant d'accepter des requêtes
         await prisma.$connect();
