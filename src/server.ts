@@ -8,7 +8,7 @@ import prisma from './config/prisma';
 import authRoutes from './routes/auth_route'
 const app = express();
 
-const PORT = process.env.PORT || 3000;
+const PORT = Number(process.env.PORT) || 3000;
 
 
 
@@ -49,7 +49,7 @@ const startServer = async () => {
         });
 
         //Server running
-        const server = app.listen(PORT, () => {
+        const server = app.listen(PORT, '0.0.0.0', () => {
             console.log(`[TypeScript Modulaire] Serveur actif sur : http://localhost:${PORT}`);
 
         });
