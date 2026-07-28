@@ -7,6 +7,7 @@ import pharmacieRoutes from './routes/pharmacie_route'
 import { registerProcessHandlers } from './config/process_handler';
 import prisma from './config/prisma';
 import authRoutes from './routes/auth_route'
+import { execSync } from 'child_process';
 const app = express();
 
 const PORT = Number(process.env.PORT) || 3000;
@@ -55,6 +56,13 @@ app.use((err: unknown, req: Request, res: Response, next: NextFunction) => {
 
 const startServer = async () => {
     try {
+
+        // ✅ Migrations automatiques en production
+        if (process.env.NODE_ENV === 'production') {
+            console.log('[Database] Applying migrations...');
+            execSync('npx prisma migrate deploy', { stdio: 'inherit' });
+            console.log('[Database] Migrations applied');
+        }
 
         // ✅ Test de connexion réelle avant d'accepter des requêtes
         await prisma.$connect();
